@@ -14,7 +14,8 @@ If the journal uses double-blind review, author-identifying information should b
 ```text
 .
 ├── data/
-│   └── ai_islamic_banking_finance_abstracts_cleaned.csv
+    └── data_cleaned_final
+    └── analysis_main_script
 │
 ├── README.md
 ├── LICENSE
