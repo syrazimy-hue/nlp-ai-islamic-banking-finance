@@ -25,7 +25,7 @@ If the journal uses double-blind review, author-identifying information should b
 ## Dataset Description
 The dataset is stored in:
 ```text
-data/ai_islamic_banking_finance_abstracts_cleaned.csv
+data/data_cleaned_final.csv
 ```
 
 The dataset contains cleaned abstract-level metadata used for the NLP analysis.
@@ -40,7 +40,7 @@ The dataset contains cleaned abstract-level metadata used for the NLP analysis.
 The main analysis script is stored in:
 
 ```text
-scripts/analysis_main.R
+scripts/analysis_main_script.R
 ```
 
 The script contains the R code used to process the abstract text and conduct the NLP-based analysis.
